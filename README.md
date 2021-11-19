@@ -2,6 +2,10 @@
 
 It is a bootcamp landing page built with Bootstrap 5
 
+### Demo
+
+https://frontend-bootcamp-pk.netlify.app
+
 ## Getting Started
 
 ```
